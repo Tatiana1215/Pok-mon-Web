@@ -50,7 +50,7 @@
     
   <div id="contenedorDatosPrincipales">
           <div id="Categoria">
-            <h5>{{ pokemonCategoria1 }}</h5>
+            <h5 v-for="">{{ pokemonCategoria1 }}</h5>
             <h5>{{ pokemonCategoria2 }}</h5>
           </div>
           <div id="AlturaPeso">
@@ -677,5 +677,9 @@ grid-template-columns: repeat(2, 1fr);
   width: 90%;
 }
 }
+  @media screen and (max-width:1840px) and (min-width:2440px){
+    #cambioColores{
+      height:100vh;
+  }
 
 </style>
