@@ -684,5 +684,5 @@ grid-template-columns: repeat(2, 1fr);
     #Contenedor{
       padding-botton:5%;
   }
-
+  }
 </style>
