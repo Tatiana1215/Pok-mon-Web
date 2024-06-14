@@ -681,5 +681,6 @@ grid-template-columns: repeat(2, 1fr);
     #cambioColores{
       height:1000vh;
   }
+  }
 
 </style>
