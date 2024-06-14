@@ -679,7 +679,7 @@ grid-template-columns: repeat(2, 1fr);
 }
   @media screen and (max-width:1840px) and (min-width:2440px){
     #cambioColores{
-      height:100vh;
+      height:1000vh;
   }
 
 </style>
