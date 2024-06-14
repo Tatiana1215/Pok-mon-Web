@@ -681,6 +681,8 @@ grid-template-columns: repeat(2, 1fr);
     #cambioColores{
       height:1000vh;
   }
+    #Contenedor{
+      padding-botton:5%;
   }
 
 </style>
